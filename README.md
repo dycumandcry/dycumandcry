@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img scr="./scr/kagura.gif">
+  <img src="./src/kagura.gif" width="600">
 
 </div>
 
