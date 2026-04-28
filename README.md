@@ -23,6 +23,8 @@
 
 ---
 
+<img align="right" alt="" height="190px" src="./src/kagura.gif">
+
 ### 🌐 Connect
 
 <div>
