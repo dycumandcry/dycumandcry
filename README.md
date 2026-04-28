@@ -12,6 +12,9 @@
 
 <img align="right" src="./src/kagura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
+
+<img align="left" src="./src/aura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
+
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science student  
@@ -39,7 +42,6 @@
   </a>
 </div>
 
-<img align="left" src="./src/aura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
