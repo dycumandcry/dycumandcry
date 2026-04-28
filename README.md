@@ -1,13 +1,18 @@
-<!-- ⚡ HEADER COM EFEITO "ENERGIA / RAIO" -->
+<!-- ⚡ HEADER HACKERMAN + DARK AURA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1a0000,50:330000,75:660000,100:990000&height=170&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=twinkling&stroke=FF0000&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:1a0000,40:330000,60:660000,100:990000&height=180&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=twinkling&stroke=FF0000&strokeWidth=2"/>
+</div>
+
+<!-- ⚡ LINHA GLITCH -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;ACCESS+GRANTED;BACK-END+DEVELOPER;INITIALIZING..." />
 </div>
 
 ---
 
-<!-- TYPING -->
+<!-- 🔴 DARK AURA BAR -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Back-end+Enthusiast;Building+my+future+in+code" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:330000,100:990000&height=6"/>
 </div>
 
 ---
@@ -56,13 +61,13 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=000000&hide=html,css"/>
 </div>
 
 ---
 
-<!-- FOOTER COM MESMO ESTILO -->
+<!-- 🔴 FOOTER DARK AURA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:990000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:990000&height=120&section=footer"/>
 </div>
