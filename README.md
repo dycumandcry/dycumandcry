@@ -61,8 +61,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dycumandcry&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dycumandcry&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=000000&hide=html,css"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dyisdead&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyisdead&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=000000&hide=html,css"/>
 </div>
 
 ---
