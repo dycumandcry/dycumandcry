@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" src="./src/kagura.gif" width="180" alt="Kagurabachi">
+<img align="right" src="./src/kagura.gif" width="280" alt="Kagurabachi">
 
 <p align="left">
   🎓 <b>Bacharelando em Ciência da Computação | São Paulo</b><br>
@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email">
   </a>
 </div>
+
+<br><br>
 
 #
 
@@ -59,10 +61,4 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true&title_color=FF0000&icon_color=FF0000&text_color=fff&bg_color=0d1117" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide=html,css&title_color=FF0000&icon_color=FF0000&text_color=fff&bg_color=0d1117" alt="Most Used Languages">
-</div>
-
-#
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
