@@ -13,7 +13,6 @@
 <img align="right" src="./src/kagura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 
-<img align="left" src="./src/aura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 ### 🧑‍💻 About Me
 
@@ -30,6 +29,8 @@
 - 📚 Sempre aprendendo algo novo
 
 <br>
+
+<img align="left" src="./src/aura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 ### 🌐 Connect
 
