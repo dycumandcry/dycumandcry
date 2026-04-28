@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header&text=Diogo%20Henrique&fontSize=35&animation=fadeIn&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header&text=Diogo%20Henrique&fontSize=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 ---
@@ -12,17 +10,16 @@
 
 ---
 
-
-<img align="right" src="./src/kagura.gif" height="190px" style="margin-top:-20px; margin-left:15px;"/>
+<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="350px" style="margin-left: 15px; border-radius: 10px;"/>
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student  
-- 💻 Focused on **Back-end Development**  
-- 🚀 Currently improving my skills in **Java, SQL and Data Structures**  
-- 📚 Always learning something new  
+- 🎓 Bacharelando em **Ciência da Computação**
+- 💻 Focado em **Back-end Development**
+- 🚀 Evoluindo em **Java, SQL e Estrutura de Dados**
+- 📚 Sempre aprendendo algo novo
 
----
+<br>
 
 ### 🌐 Connect
 
@@ -40,10 +37,17 @@
 ### ⚙️ Tech Stack
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
 </div>
 
 ---
@@ -51,17 +55,12 @@
 ### 📊 Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=footer"/>
 </div>
