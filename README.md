@@ -13,7 +13,7 @@
 <p align="center">
   💻 <b>Estudante de ADS | São Paulo</b><br>
   Focado no desenvolvimento de soluções eficientes e apaixonado por tecnologia. 
-  Atualmente aprimorando conhecimentos em <b>Java</b> e <b>Arquitetura de Dados</b>, com experiência prática em <b>C, PHP e SQL</b>.
+  Atualmente aprimorando conhecimentos em <b>Java</b> e <b>Arquitetura de Dados</b>.
 </p>
 
 #
@@ -34,8 +34,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html
