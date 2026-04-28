@@ -1,11 +1,6 @@
-<!-- ⚡ HEADER RETO (SEM BORDAS ARREDONDADAS) -->
+<!-- ⚡ HEADER COM EFEITO "ENERGIA / RAIO" -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:990000&height=160&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=fadeIn"/>
-</div>
-
-<!-- ⚡ TROVÃO -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1m1j0N9zPq/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1a0000,50:330000,75:660000,100:990000&height=170&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=twinkling&stroke=FF0000&strokeWidth=1"/>
 </div>
 
 ---
@@ -54,10 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </div>
 
 ---
@@ -65,13 +56,13 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dycumandcry&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dycumandcry&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
 </div>
 
 ---
 
-<!-- FOOTER RETO -->
+<!-- FOOTER COM MESMO ESTILO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:990000&height=100&section=footer"/>
 </div>
