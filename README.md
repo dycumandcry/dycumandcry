@@ -10,7 +10,14 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="350px" style="margin-left: 15px; border-radius: 10px;"/>
+<img align="right" src="./src/kagura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
+
+### 🧑‍💻 About Me
+
+- 🎓 Computer Science student  
+- 💻 Focused on **Back-end Development**  
+- 🚀 Currently improving my skills in **Java, SQL and Data Structures**  
+- 📚 Always learning something new  
 
 ### 🧑‍💻 About Me
 
@@ -32,9 +39,7 @@
   </a>
 </div>
 
----
-
-### ⚙️ Tech Stack
+<img align="right" src="./src/aura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
