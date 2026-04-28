@@ -13,7 +13,7 @@
 ---
 
 
-<img align="right" src="./src/kagura.gif" height="190px"/>
+<img align="right" src="./src/kagura.gif" height="180px"/>
 
 ### 🧑‍💻 About Me
 
