@@ -1,11 +1,11 @@
-<!-- ⚡ HEADER COM RAIO (FUNDO RETO, SEM WAVE) -->
+<!-- ⚡ HEADER RETO (SEM BORDAS ARREDONDADAS) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:990000&height=160&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=fadeIn"/>
 </div>
 
-<!-- ⚡ GIF DE TROVÃO POR CIMA -->
+<!-- ⚡ TROVÃO -->
 <div align="center">
-  <img src="https://i.imgur.com/8QfQK8R.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0HU7JI1m1j0N9zPq/giphy.gif" width="100%"/>
 </div>
 
 ---
@@ -65,8 +65,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dycrumandcry&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dycrumandcry&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dycumandcry&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dycumandcry&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide=html,css"/>
 </div>
 
 ---
