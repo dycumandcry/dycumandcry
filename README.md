@@ -9,7 +9,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="600" alt="Kagurabachi GIF">
+  <img src=<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/3c3aea9c-2345-45e8-a242-7cbd2a83b7bd" />
+
 </div>
 
 #
