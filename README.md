@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="400" alt="Kagurabachi Chihiro" style="margin-left: 20px;">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1Z3R4bmh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YmZ1TNFOuT28/giphy.gif" width="450" alt="Kagurabachi Chihiro">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -40,13 +40,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
 </div>
-
-<br><br>
-
-<h3 align="left">Hardware Setup 🖥️</h3>
-<p>
-  <b>CPU:</b> i5-12400F &nbsp;|&nbsp; <b>GPU:</b> RTX 4060 Ti &nbsp;|&nbsp; <b>RAM:</b> 16GB DDR4
-</p>
 
 <br clear="right">
 
