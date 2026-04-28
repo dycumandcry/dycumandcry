@@ -12,7 +12,8 @@
 
 ---
 
-<img align="right" src="./kagura.gif" width="360" style="border-radius:10px;" />
+
+<img align="right" src="./src/kagura.gif" height="190px"/>
 
 ### 🧑‍💻 About Me
 
@@ -22,8 +23,6 @@
 - 📚 Always learning something new  
 
 ---
-
-<img align="right" alt="" height="190px" src="./src/kagura.gif">
 
 ### 🌐 Connect
 
