@@ -10,8 +10,6 @@
 
 ---
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxcaqc9U5y/giphy.gif" width="150px" style="margin-right: 15px;"/>
-
 <img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="350px" style="margin-left: 15px; border-radius: 10px;"/>
 
 ### 🧑‍💻 About Me
@@ -33,9 +31,6 @@
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF0000">
   </a>
 </div>
-
-<br clear="left">
-<br clear="right">
 
 ---
 
