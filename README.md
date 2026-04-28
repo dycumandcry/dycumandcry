@@ -13,14 +13,6 @@
 <img align="right" src="./src/kagura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
 
-
-### 🧑‍💻 About Me
-
-- 🎓 Computer Science student  
-- 💻 Focused on **Back-end Development**  
-- 🚀 Currently improving my skills in **Java, SQL and Data Structures**  
-- 📚 Always learning something new  
-
 ### 🧑‍💻 About Me
 
 - 🎓 Bacharelando em **Ciência da Computação**
