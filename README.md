@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" src="./src/kagura.gif" width="280" alt="Kagurabachi">
+<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="400" alt="Kagurabachi Chihiro">
 
 <p align="left">
   🎓 <b>Bacharelando em Ciência da Computação | São Paulo</b><br>
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br><br>
 
 #
 
