@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="350px" style="margin-left: 15px; border-radius: 10px;"/>
+<img align="right" src="./src/kagura.gif" height="190px" style="margin-top:-20px; margin-left:15px;"/>
 
 ### 🧑‍💻 About Me
 
