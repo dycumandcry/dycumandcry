@@ -10,49 +10,45 @@
 
 #
 
-<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="400" alt="Kagurabachi Chihiro">
+<img align="right" src="https://media.tenor.com/FwYm67X8N6wAAAAC/kagurabachi-chihiro.gif" width="400" alt="Kagurabachi Chihiro" style="margin-left: 20px;">
 
-<p align="left">
-  🎓 <b>Bacharelando em Ciência da Computação | São Paulo</b><br>
-  Focado em fundamentos de computação, algoritmos e desenvolvimento de sistemas robustos.<br>
-  Atualmente aprimorando conhecimentos em <b>Java</b> e engenharia de software.
-</p>
-
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me!</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="Linkedin">
   </a>
   <a href="mailto:Diogo3892h@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email">
   </a>
 </div>
 
-<br><br><br><br>
+<br>
 
-#
-
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">My Stack ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
 </div>
+
+<br><br>
 
 <h3 align="left">Hardware Setup 🖥️</h3>
 <p>
   <b>CPU:</b> i5-12400F &nbsp;|&nbsp; <b>GPU:</b> RTX 4060 Ti &nbsp;|&nbsp; <b>RAM:</b> 16GB DDR4
 </p>
+
+<br clear="right">
 
 #
 
