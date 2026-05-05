@@ -17,38 +17,36 @@
 
 ---
 
-<!-- GIF DO CHIHIRO -->
 <img align="right" src="./src/kagura.gif" height="180px" style="margin-top:-20px; margin-left:15px;"/>
 
-### 🧑‍💻 About Me
+### [01] PROFILE_INFO
 
-- 🎓 Bacharelando em **Ciência da Computação**
-- 💻 Focado em **Back-end Development**
-- 🚀 Evoluindo em **Java, SQL e Estrutura de Dados**
-- 📚 Sempre aprendendo algo novo
+- **CURSO:** Bacharelando em Ciência da Computação
+- **CORE:** Back-end Development
+- **SKILLS:** Java, SQL e Estrutura de Dados
+- **STATUS:** Always Learning
 
 <br>
 
 ---
 
-### 📂 Featured Projects
+### [02] PROJECTS_DATABASE
 
-####  Sistema de Gestão Escolar
-> **Back-end & Database Design**  
-> Desenvolvimento de uma arquitetura robusta para controle acadêmico, focando em integridade referencial e automação via banco de dados.
-- 🛠️ **Recursos:** Triggers para calculo de médias, Procedures de matrícula e Views complexas.
-- 🛡️ **Tech Stack:** `MySQL` / `SQL Server`
+#### > SISTEMA DE GESTÃO ESCOLAR
+*Modelagem de Banco de Dados Relacional*
+- **FUNCIONALIDADES:** Triggers de automação, Procedures e Views.
+- **STACK:** `MySQL` / `SQL Server`
+- **DESC:** Arquitetura focada em integridade de dados acadêmicos.
 
-####  Chrome Extension Prototype
-> **Browser Automation & Productivity**  
-> <img src="https://img.shields.io/badge/STATUS-PROTOTYPING-red?style=flat-square&logo=google-chrome&logoColor=white">  
-> Projeto focado em entender a API de extensões do Chrome para criar ferramentas de produtividade.
-- 🚀 **Fase Atual:** Desenvolvimento do *Manifest V3* e lógica de interface (Popup/Script injection).
--  **Tech Stack:** `JavaScript` / `HTML5` / `Chrome API`
+#### > CHROME EXTENSION PROTOTYPE
+*Browser Interface & Automation*
+- **STATUS:** `PROTOTYPING_INITIAL_VERSION`
+- **STACK:** `JavaScript` / `Chrome API`
+- **DESC:** Desenvolvimento de ferramenta para otimização de workflow.
 
 ---
 
-### 🌐 Connect
+### [03] CONNECT_TERMINAL
 
 <div>
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
@@ -61,7 +59,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### [04] TECH_STACK
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
@@ -77,7 +75,7 @@
 
 ---
 
-### 📊 Stats
+### [05] SYSTEM_STATS
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dyisdead&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000"/>
