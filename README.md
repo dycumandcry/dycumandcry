@@ -31,6 +31,23 @@
 
 ---
 
+### 📂 Featured Projects
+
+#### 🗄️ Sistema de Gestão Escolar
+> **Back-end & Database Design**  
+> Desenvolvimento de uma arquitetura robusta para controle acadêmico, focando em integridade referencial e automação via banco de dados.
+- 🛠️ **Recursos:** Triggers para calculo de médias, Procedures de matrícula e Views complexas.
+- 🛡️ **Tech Stack:** `MySQL` / `SQL Server`
+
+#### 🧩 Chrome Extension Prototype
+> **Browser Automation & Productivity**  
+> <img src="https://img.shields.io/badge/STATUS-PROTOTYPING-red?style=flat-square&logo=google-chrome&logoColor=white">  
+> Projeto focado em entender a API de extensões do Chrome para criar ferramentas de produtividade.
+- 🚀 **Fase Atual:** Desenvolvimento do *Manifest V3* e lógica de interface (Popup/Script injection).
+- 🛡️ **Tech Stack:** `JavaScript` / `HTML5` / `Chrome API`
+
+---
+
 ### 🌐 Connect
 
 <div>
@@ -54,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </div>
 
 ---
