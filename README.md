@@ -1,6 +1,6 @@
 <!-- ⚡ HEADER HACKERMAN + DARK AURA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:1a0000,40:330000,60:660000,100:990000&height=180&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=twinkling&stroke=FF0000&strokeWidth=2&fontAlign=50&fontAlignY=50&font=Orbitron"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:1a0000,40:330000,60:660000,100:990000&height=180&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=FF0000&animation=twinkling&stroke=FF0000&strokeWidth=2&font=Orbitron"/>
 </div>
 
 <!-- ⚡ LINHA GLITCH -->
@@ -75,11 +75,19 @@
 
 ---
 
-### [05] SYSTEM_STATS
+### [05] SYSTEM_CAPABILITIES
+
+| MODULE | LEVEL | STATUS |
+| :--- | :--- | :--- |
+| **JAVA_CORE** | `[████████░░] 80%` | `STABLE` |
+| **SQL_ENGINE** | `[███████░░░] 70%` | `OPTIMIZING` |
+| **DATA_STRUCTURES** | `[██████░░░░] 60%` | `UPGRADING` |
+| **BACKEND_ARCH** | `[███████░░░] 70%` | `ACTIVE` |
+
+<br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dyisdead&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyisdead&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=000000&hide=html,css" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=990000&center=true&vCenter=true&width=435&lines=LOG:+Analyzing+new+stacks...;LOG:+Executing+scripts.sql;LOG:+Compiling+Java+modules...;LOG:+System+Aura:+Dark+Minimalist" />
 </div>
 
 ---
